@@ -1,5 +1,5 @@
-// Brendan Gamble 
-// 5.17.20
+// Brendan G.
+
 
 import java.util.Scanner;
 public class Calculator {
